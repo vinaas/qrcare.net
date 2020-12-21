@@ -1,0 +1,17 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Easycode",
+  "short_name": "Easycode",
+  "version": "com.example.template",
+  "description": "Qr Code Solutions",
+  "author": "Apache Cordova Team",
+  "icons": [
+    {
+      "src": "res/icon.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}
